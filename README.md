@@ -1,8 +1,9 @@
 # Particle-sim
-Basic Pygame particle simulation
 
-Pygame required.
+Particle Simulator made in C++ with freeglut( OpenGL).
 
-Click in the window, the cursor acts as a large mass.
+ZIP file includes Compiled executable file.
 
-Particlesimglut mad in c++ with freeglut and codeblocks .cbp included
+Source code is in particlesimglut folder.
+
+The cursor acts as a large mass.
