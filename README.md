@@ -1,9 +1,5 @@
 # Particle-sim
 
-Particle Simulator made in C++ with freeglut( OpenGL).
+Particle Simulator made in python with pygame.
 
-ZIP file includes Compiled executable file.
-
-Source code is in particlesimglut folder.
-
-The cursor acts as a large mass.
+Me and my classmate created this in 2nd semester of college.
